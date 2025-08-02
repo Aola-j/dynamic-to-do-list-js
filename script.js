@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentloaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
 
     //Select DOM Elements:
     const addButton = document.getElementById("add-task-btn");
